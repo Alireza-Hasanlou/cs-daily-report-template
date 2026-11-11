@@ -84,18 +84,31 @@
 
 ---
 
-### چهارشنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### چهارشنبه (20-08-1405)
+- **ساعت کاری امروز:** 1:40
+- **رضایت امروز:** 75٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+
+#### 📋 استادی آیتم  3 : Garbage Collection (Microsoft .Net Guid) 
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14176 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_garbage-collection-ugcPost-7526150680294633472-ER2D/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/hasanlou696/status/2120386758529491369 |
+
+</div>
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+جلسه بررسی دوره سی شارپ 
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+بخشی از کتاب سی شارپ رو خوندم و پست های مربوط به استادی آیتم 3 رو منتشر کردم 
 
 <br>
 
@@ -175,7 +188,7 @@
 
 | معیار ارزیابی | مقدار |
 | --- | --- |
-| **مجموع ساعات این هفته** | 16 از 6:26 ساعت |
+| **مجموع ساعات این هفته** | 16 از 8:06 ساعت |
 | **رضایت کلی** | [XX]% |
 
 </div>
