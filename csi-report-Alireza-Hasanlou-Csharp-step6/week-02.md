@@ -60,7 +60,7 @@
 - **رضایت امروز:** 100٪
 - **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
-#### 📋 تسک 2 : Object Lifetime (Wikipedia article)
+#### 📋 استادی آیتم  2 : Object Lifetime (Wikipedia article)
 
 <div dir="rtl">
 
@@ -114,18 +114,32 @@
 
 ---
 
-### پنج‌شنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### پنج‌شنبه (21-08-1405)
+- **ساعت کاری امروز:** 2:25
+- **رضایت امروز:** 90٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک 4 : Finalizers (Microsoft C# Programming Guide)
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14178|
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_csharp-csabrinternship-step6-share-7526559769399046146-nLhZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/hasanlou696/status/2120794913885323730|
+
+</div>
+
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+بدون جلسه 
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+استادی آیتم 5 در مورد dot memory بود که نیاز بود یک سری ابزار نصب بشه اون هارو نصب کردم که طول کشید کمی و یک بخش از ویدیو هاش رو دیدم توی 
+یوتیوب . برای استادی آیتم 4 پست نوشتم و در شبکه های اجتمایی منتشر کردم .
 
 <br>
 
@@ -188,7 +202,7 @@
 
 | معیار ارزیابی | مقدار |
 | --- | --- |
-| **مجموع ساعات این هفته** | 16 از 8:06 ساعت |
+| **مجموع ساعات این هفته** | 16 از 10:31 ساعت |
 | **رضایت کلی** | [XX]% |
 
 </div>
