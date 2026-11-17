@@ -80,18 +80,33 @@
 
 ---
 
-### سه‌شنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### سه‌شنبه (26-08-1405)
+- **ساعت کاری امروز:** 3:05
+- **رضایت امروز:** 100٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** بله
+
+#### 📋 تسک 7 : start coordinating and scheduling your live presentation session
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14194 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_csharp-dotnet-garbagecollector-ugcPost-7528479912576540672-4Y-_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/hasanlou696/status/2122715484986765755 |
+
+</div>
+
+
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+بدون جلسه
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+ویدیو آموزشی 6 از دوره‌ی Coach Training رو دیدم و یادداشت برداری کردم.
+زمان ارائه استپ 6 رو برنامه ریزی کردم و ایونتش رو ایجاد کردم و در لینکدین و توییتر منتشر کردم.
 
 <br>
 
@@ -188,7 +203,7 @@
 
 | معیار ارزیابی | مقدار |
 | --- | --- |
-| **مجموع ساعات این هفته** | xx از xx ساعت |
+| **مجموع ساعات این هفته** | 16 از 5:40 ساعت |
 | **رضایت کلی** | [XX]% |
 
 </div>
