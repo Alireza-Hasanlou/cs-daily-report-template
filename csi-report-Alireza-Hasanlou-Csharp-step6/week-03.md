@@ -128,18 +128,31 @@
 
 ---
 
-### پنج‌شنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### پنج‌شنبه (28-08-1405)
+- **ساعت کاری امروز:** 0:40
+- **رضایت امروز:** 50٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** بله
+
+#### 📋 تسک 4: Pass all lessons on TypingClub.com with 5 stars up to lesson 316.
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14202 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_csharp-csabrinternship-step6-share-7529124554787471362-r5Zq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/hasanlou696/status/2123359330363912328 |
+
+</div>
+
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+بدون جلسه
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+تسک typing club رو تموم کردم 
 
 <br>
 
