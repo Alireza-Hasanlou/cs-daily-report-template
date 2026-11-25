@@ -119,7 +119,7 @@
 - **رضایت امروز:** 90٪
 - **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
-#### 📋 تسک 4 : Finalizers (Microsoft C# Programming Guide)
+#### 📋 آیتم 4 : Finalizers (Microsoft C# Programming Guide)
 
 <div dir="rtl">
 

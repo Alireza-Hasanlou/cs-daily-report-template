@@ -100,18 +100,52 @@
 
 ---
 
-### چهارشنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### چهارشنبه (04-08-1405)
+- **ساعت کاری امروز:** 5:15
+- **رضایت امروز:** 100٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
+
+#### 📋 تسک 6 : attend a technical session with one of your track’s technical mentors and receive their feedback.
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14217|
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_csharp-csabrinternship-step6-share-7531404767579770882-A4NR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/hasanlou696/status/2125639478999949626|
+
+</div>
+
+#### 📋 تسک 8 : Hold your live presentation on LinkedIn.
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14218 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_csharp-csabrinternship-step6-ugcPost-7531423214703509506-A3fh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/hasanlou696/status/2125639478999949626|
+
+</div>
+
+#### 📋 تسک 2 : Coach Training Video 6
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14219 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |https://www.linkedin.com/posts/alireza-hasanlou%F0%9F%87%AE%F0%9F%87%B7-3528b7288_csharp-csabrinternship-step6-share-7531428696298008577-Dgx_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXmjC4Bgo7zchLh1HyMZpoBmE5kxKhyJRA |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/hasanlou696/status/2125663354924814608|
+
+</div>
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
-
+بدون جلسه 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+امروزی بیشتر روی ارائه ام کارکردم ، ارائه استپ 6 رو برگذار کردم و برای شبکه های اجتمایی پست نوشتم و منتشر کردم 
 
 <br>
 
@@ -191,7 +225,7 @@
 
 | معیار ارزیابی | مقدار |
 | --- | --- |
-| **مجموع ساعات این هفته** | xx از xx ساعت |
+| **مجموع ساعات این هفته** | 16 از 11:36  ساعت |
 | **رضایت کلی** | [XX]% |
 
 </div>
